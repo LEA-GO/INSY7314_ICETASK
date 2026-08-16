@@ -1,0 +1,15 @@
+{
+  "name": "secure-api",
+  "version": "1.0.0",
+  "description": "Structured Express backend API for a movie catalogue (INSY7314 ICE Task 2).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "helmet": "^8.0.0"
+  }
+}
